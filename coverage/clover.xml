@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1598033563218" clover="3.2.0">
+  <project timestamp="1598033563218" name="All files">
+    <metrics statements="18" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="7" elements="28" coveredelements="22" complexity="0" loc="18" ncloc="18" packages="1" files="3" classes="3"/>
+    <file name="arrays.js" path="C:\Users\Cristian Florez Ramo\OneDrive\Documents\jesting dev\arrays.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="3" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+    <file name="maths.js" path="C:\Users\Cristian Florez Ramo\OneDrive\Documents\jesting dev\maths.js">
+      <metrics statements="8" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="2" count="6" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+    </file>
+    <file name="true.js" path="C:\Users\Cristian Florez Ramo\OneDrive\Documents\jesting dev\true.js">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
